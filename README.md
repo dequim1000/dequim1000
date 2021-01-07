@@ -8,7 +8,7 @@ I'm currently studying software engineering at UNAERP University in Ribeirão Pr
 - 📷 My Hobby is photographing nature
 - 🎮 I'm currently play CS-GO and GTA V
 
-<h3 align="left"># :computer:Languages and Tools:</h3>
+<h3 align="left">:computer:Languages and Tools:</h3>
 <p align="left"> 
 <ul>
   <li><a href="https://www.w3schools.com/html/">HTML</a></li>
