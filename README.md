@@ -26,7 +26,7 @@ I'm currently studying software engineering at UNAERP University in Ribeirão Pr
 </p>
 
 
-
+<h3 align="left">:computer:Social Networks:</h3>
 [![Linkedin Badge](https://img.shields.io/badge/-andreotavio-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andreotavio/)](https://www.linkedin.com/in/andreotavio/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andreotaviobordonal@gmail.com)](mailto:andreotaviobordonal@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-@otavioandre-6633cc?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/otavioandre/)](https://www.instagram.com/otavioandre/)
