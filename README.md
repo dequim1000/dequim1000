@@ -25,6 +25,12 @@ I'm currently studying software engineering at UNAERP University in Ribeirão Pr
 </ul>
 </p>
 
+### Status
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dequim1000&hide=issues,contribs&hide_border=true&count_private=true)](https://github.com/dequim1000/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dequim1000&langs_count=8&layout=compact&hide_border=true)](https://github.com/dequim1000/github-readme-stats)
+
 <h3 align="left">👨‍💻Social Networks:</h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/-andreotavio-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andreotavio/)](https://www.linkedin.com/in/andreotavio/) 
