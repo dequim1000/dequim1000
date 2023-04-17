@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I'm André Otávio, a 20-year-old Brazilian software engineer and enthusiast of technology and its application.
-I'm currently studying software engineering at UNAERP University in Ribeirão Preto - SP.
+I'm André Otávio, a 21-year-old Brazilian software engineer and enthusiast of technology and its application.
+I graduated in software engineering at the UNAERP University in Ribeirão Preto - SP.
 
 - 🔭 I’m currently working on Software House 
-- 🌱 I’m currently learning *C#*, *.Net*, *JavaScript*, *TypeScript* and *React*
+- 🌱 I’m currently learning *C#*, *.Net*, *JavaScript*, *TypeScript*, *Flutter*, *Angular* and *React*
 - 📷 My Hobby is photographing nature
 - 🎮 I'm currently play CS-GO and GTA V
 
