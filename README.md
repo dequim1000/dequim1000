@@ -11,8 +11,8 @@ I graduated in software engineering at the UNAERP University in Ribeirão Preto 
 <h3 align="left">:computer:Languages and Tools:</h3>
 <p align="left"> 
 <ul>
-  <li><a href="https://www.w3schools.com/html/">HTML</a></li>
-  <li><a href="https://www.w3schools.com/Css/">CSS</a></li>
+  <li><a href="https://angular.io/">ANGULAR</a></li>
+  <li><a href="https://react.dev/">REACT</a></li>
   <li><a href="https://www.javascript.com/">JAVASCRIPT</a></li>
   <li><a href="https://docs.microsoft.com/pt-br/dotnet/csharp/">C#</a></li>
   <li><a href="https://docs.microsoft.com/pt-br/dotnet/csharp/">.NET</a></li>
