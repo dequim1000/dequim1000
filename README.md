@@ -18,7 +18,6 @@ I graduated in software engineering at the UNAERP University in Ribeirão Preto 
   <li><a href="https://docs.microsoft.com/pt-br/dotnet/csharp/">.NET</a></li>
   <li><a href="http://linguagemc.com.br/">C/C+</a></li>
   <li><a href="https://www.php.net/">PHP</a></li>
-  <li><a href="https://pt-br.reactjs.org/">REACT</a></li>
   <li><a href="https://getbootstrap.com/">BOOTSTRAP</a></li>  
   <li><a href="https://developers.google.com/chart/">GOOGLE CHARTS</a></li>
   <li><a href="https://fontawesome.com/">FONT AWESOME</a></li>
